@@ -44,6 +44,7 @@ a {
     text-decoration: none;
     padding: 20px;
     width: 280px;
+    max-width: 86%;
     margin: 15px;
     text-align: center;
     display: block;
